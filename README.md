@@ -14,6 +14,8 @@
 ![Oracle SQL](https://img.shields.io/badge/oracle-F80000.svg?style=flat&logo=oracle&logoColor=white) 
 ![MyBatis](https://img.shields.io/badge/MyBatis-003545?style=flat&logo=mybatis&logoColor=white)
 
+<br>
+
 # 🕸️Tools
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=Eclipse&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=flat&logo=IntelliJIDEA&logoColor=white)
@@ -21,9 +23,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white) 
 
+<br>
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=alsgud2659&theme=react&hide_border=true&include_all_commits=true&count_private=false) &nbsp;  &nbsp;  &nbsp;  &nbsp; 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alsgud2659&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
  [![](https://visitcount.itsvg.in/api?id=alsgud2659&icon=7&color=6)](https://visitcount.itsvg.in) 
-<!-- ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alsgud2659&theme=discord&no-frame=false&no-bg=false&margin-w=4) -->
+ 
+ <br>
+
+# 👇Connect with LeeMinHyung
+<a href="mailto:alsgud0728@gmail" target="_blank"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
