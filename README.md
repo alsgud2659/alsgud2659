@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💫About Me
+##💫About Me
 안녕하세요!! 백엔드 주니어 개발자 이민형입니다 :)
+
+Tech Stack
+<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
+
+
+
+![alsgud2659's github stats](https://github-readme-stats.vercel.app/api?username=alsgud2659&show_icons=true)
