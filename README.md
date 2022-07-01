@@ -33,4 +33,4 @@
  <br>
 
 # 👇Connect with LeeMinHyung
-<a href="mailto:alsgud0728@gmail" target="_blank"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+<a href="mailto:alsgud0728@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
