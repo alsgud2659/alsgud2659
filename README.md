@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻Tech Stack
-Java JavaScript HTML5 TypeScript NPM Next JS SASS React React Router Spring Webpack Yarn MySQL MariaDB
+
+💫About Me
+안녕하세요!! 백엔드 주니어 개발자 이민형입니다 :)
