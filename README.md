@@ -30,7 +30,8 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=alsgud2659&theme=react&hide_border=true&include_all_commits=true&count_private=false) &nbsp;  &nbsp;  &nbsp;  &nbsp; 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alsgud2659&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
- [![](https://visitcount.itsvg.in/api?id=alsgud2659&icon=7&color=6)](https://visitcount.itsvg.in) 
+<br>
+[![](https://visitcount.itsvg.in/api?id=alsgud2659&icon=7&color=6)](https://visitcount.itsvg.in) 
  
  <br>
 
