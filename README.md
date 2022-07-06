@@ -23,7 +23,10 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=flat&logo=IntelliJIDEA&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
-![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white) 
+![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![GITHUB](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
+![SLACK](https://img.shields.io/badge/slack-4A154B.svg?sltyle=flat&logo=slack&logoColor=white)
 
 <br>
 
