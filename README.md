@@ -14,7 +14,8 @@
 ![Oracle SQL](https://img.shields.io/badge/oracle-F80000.svg?style=flat&logo=oracle&logoColor=white) 
 ![MyBatis](https://img.shields.io/badge/MyBatis-003545?style=flat&logo=mybatis&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=Pandas&logoColor=white)
-![ThymeLeaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=flat&logo=Thymeleaf&logoColor=white) 
+![ThymeLeaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=flat&logo=Thymeleaf&logoColor=white)
+![ThymeLeaf](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat&logo=Vue.js&logoColor=white)
 
 <br>
 
