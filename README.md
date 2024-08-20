@@ -25,7 +25,7 @@
 # 🛠Tools
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=Eclipse&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=flat&logo=IntelliJIDEA&logoColor=white)
-![DBeaver](https://img.shields.io/badge/dbeaver-4A154B.svg?sltyle=flat&logo=dbeaver&logoColor=white)
+![DBeaver](https://img.shields.io/badge/dbeaver-37686.svg?sltyle=flat&logo=dbeaver&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
