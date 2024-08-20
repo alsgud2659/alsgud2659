@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MinHyung%20Lee&fontSize=90)
 
  # 💫About Me :
-백엔드 주니어 개발자 이민형 입니다 :D \n
+백엔드 주니어 개발자 이민형 입니다 :D
 백엔드 뿐만 아니라 프론트엔드에도 관심이 많습니다!
 
 # 💻Tech Stack
